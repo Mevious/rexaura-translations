@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"	"ukrainian"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_NAME"	"Навмисно недосяжний"
+"[english]NEW_ACHIEVEMENT_1_4_NAME"	"Intentionally Out of Reach"
+"NEW_ACHIEVEMENT_1_4_DESC"	"Отримайте повністю заряджений ручний портальний пристрій лабораторії Aperture."
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"Дієта Aperture"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"Знайдіть усі таємні торти."
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"Повний робочий день"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Пройдіть Rexaura."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"Дрібні розриви легень"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+"NEW_ACHIEVEMENT_1_8_DESC"	"Загиньте від 1600-мегаватної позитронної енергетичної кулі."
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

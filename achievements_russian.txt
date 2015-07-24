@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"	"russian"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_NAME"	"Временно недоступно"
+"[english]NEW_ACHIEVEMENT_1_4_NAME"	"Intentionally Out of Reach"
+"NEW_ACHIEVEMENT_1_4_DESC"	"Получите полностью заряженную экспериментальную портальную пушку."
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"Диета от Aperture"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"Найдите все секретные тортики."
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"Штатный сотрудник"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Пройдите игру."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"Незначительные разрывы легкого"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+"NEW_ACHIEVEMENT_1_8_DESC"	"Умрите от 1600-мегаваттной позитронной сферы."
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

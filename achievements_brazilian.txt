@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"	"brazilian"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_NAME"	"Propositadamente Fora do Seu Alcance"
+"[english]NEW_ACHIEVEMENT_1_4_NAME"	"Intentionally Out of Reach"
+"NEW_ACHIEVEMENT_1_4_DESC"	"Adquira o Dispositivo Portátil de Portais da Aperture Science completo."
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"Dieta da Aperture"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"Encontre todos os bolos secretos."
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"Funcionária em Tempo Integral"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Termine Rexaura."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"Pequenas Explosões Pulmonares"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+"NEW_ACHIEVEMENT_1_8_DESC"	"Seja morto pela esfera de energia de pósitrons de 1600 megawatts."
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

@@ -1,0 +1,11 @@
+﻿"lang"
+{
+"Language"	"danish"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_7_NAME"	"Fuldtidsmedarbejder"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Genemfør Rexaura."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+}
+}

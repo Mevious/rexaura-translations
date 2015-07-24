@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"	"schinese"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_NAME"	"故意让你够不着"
+"[english]NEW_ACHIEVEMENT_1_4_NAME"	"Intentionally Out of Reach"
+"NEW_ACHIEVEMENT_1_4_DESC"	"获得完整功能的光圈科技传送设备。"
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"光圈菜谱"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"找到全部的秘密蛋糕。"
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"全职员工"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"完成 Rexaura。"
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"轻微肺部爆炸"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+"NEW_ACHIEVEMENT_1_8_DESC"	"亲密接触 16 亿瓦特正电子能量球体。"
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

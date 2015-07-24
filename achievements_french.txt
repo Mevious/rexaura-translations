@@ -1,0 +1,23 @@
+﻿"lang"
+{
+"Language"	"french"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_NAME"	"Volontairement hors de portée"
+"[english]NEW_ACHIEVEMENT_1_4_NAME"	"Intentionally Out of Reach"
+"NEW_ACHIEVEMENT_1_4_DESC"	"Emparez-vous du générateur à deux portails d'Aperture Science."
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"Régime Aperture"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"Trouvez tous les gâteaux secrets."
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"Employé à plein temps"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Terminez Rexaura."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"Explosions pulmonaires mineures"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+"NEW_ACHIEVEMENT_1_8_DESC"	"Faites-vous tuer par une orbe positronique de 1600 mégawatts."
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

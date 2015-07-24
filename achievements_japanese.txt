@@ -1,0 +1,13 @@
+﻿"lang"
+{
+"Language"	"japanese"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_7_NAME"	"正社員"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Rexaura をクリアする。"
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_NAME"	"軽微な肺爆発。"
+"[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
+}
+}

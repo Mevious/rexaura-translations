@@ -1,0 +1,17 @@
+﻿"lang"
+{
+"Language"	"tchinese"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_4_DESC"	"取得完整功能的光圈科學手持式傳送裝置。"
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_DESC"	"找出所有隱藏的蛋糕。"
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
+"NEW_ACHIEVEMENT_1_7_NAME"	"全職員工"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"完成遊戲。"
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
+"NEW_ACHIEVEMENT_1_8_DESC"	"被 1600 百萬瓦的正電子能量球殺死。"
+"[english]NEW_ACHIEVEMENT_1_8_DESC"	"Be killed by a 1600 megawatt positron energy orb."
+}
+}

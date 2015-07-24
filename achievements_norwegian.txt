@@ -1,0 +1,9 @@
+﻿"lang"
+{
+"Language"	"norwegian"
+"Tokens"
+{
+"NEW_ACHIEVEMENT_1_7_NAME"	"Heltidsansatt"
+"[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+}
+}
