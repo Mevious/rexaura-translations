@@ -3,7 +3,11 @@
 "Language"	"norwegian"
 "Tokens"
 {
+"NEW_ACHIEVEMENT_1_6_DESC"	"Finn alle de hemmelige kakene."
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
 "NEW_ACHIEVEMENT_1_7_NAME"	"Heltidsansatt"
 "[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
+"NEW_ACHIEVEMENT_1_7_DESC"	"Fullfør Rexaura."
+"[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
 }
 }

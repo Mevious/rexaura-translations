@@ -3,11 +3,17 @@
 "Language"	"japanese"
 "Tokens"
 {
+"NEW_ACHIEVEMENT_1_4_DESC"	"完全な状態の Aperture Science 携帯用ポータル装置を入手。"
+"[english]NEW_ACHIEVEMENT_1_4_DESC"	"Acquire the fully powered Aperture Science Handheld Portal Device."
+"NEW_ACHIEVEMENT_1_6_NAME"	"Aperture ダイエット"
+"[english]NEW_ACHIEVEMENT_1_6_NAME"	"Aperture Diet"
+"NEW_ACHIEVEMENT_1_6_DESC"	"隠されたケーキをすべて見つける。"
+"[english]NEW_ACHIEVEMENT_1_6_DESC"	"Find all the secret cakes."
 "NEW_ACHIEVEMENT_1_7_NAME"	"正社員"
 "[english]NEW_ACHIEVEMENT_1_7_NAME"	"Full-Time Employee"
 "NEW_ACHIEVEMENT_1_7_DESC"	"Rexaura をクリアする。"
 "[english]NEW_ACHIEVEMENT_1_7_DESC"	"Complete Rexaura."
-"NEW_ACHIEVEMENT_1_8_NAME"	"軽微な肺爆発。"
+"NEW_ACHIEVEMENT_1_8_NAME"	"軽微な肺爆発"
 "[english]NEW_ACHIEVEMENT_1_8_NAME"	"Minor Lung Explosions"
 }
 }
